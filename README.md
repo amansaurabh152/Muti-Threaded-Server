@@ -18,4 +18,4 @@ SERVER SIDE:-
 
 Run the following command on terminal to start client - ./server
 
-Note-: To simulate multiple users, open up a new command line window and type ./client.
+Note-: To simulate multiple users, open up a new command line window and type ./client .
